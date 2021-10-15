@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to my GitHub profile!
 #### I'm Kathi! 🤗
-I'm an international project management graduate and just recently started coding! Since June 2021 I'm a student at 42 Heilbronn and will publish my recent projects on here. If you like to find out more about this coding school and its exceptional education model: https://www.42heilbronn.de/de/learncoderepeat/.
+I'm an international project management graduate and just recently started coding! Since June 2021 I'm a student at 42 Heilbronn and will publish my recent projects here. If you like to find out more about this coding school and its exceptional education model: https://www.42heilbronn.de/de/learncoderepeat/.
 
 At this moment I'm developing a 2D game in C, working for the first time with the graphics library MiniLibX!
 
