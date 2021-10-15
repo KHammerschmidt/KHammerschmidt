@@ -9,3 +9,5 @@ At this moment I'm developing a 2D game in C, working for the first time with th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHammerschmidt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/KHammerschmidt)  
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&leet_logo=hide&login=khammers)](https://github.com/mohouyizme/1337-readme)
