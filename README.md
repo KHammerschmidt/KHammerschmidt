@@ -12,11 +12,13 @@ I'm an international project management graduate and just recently started codin
 
 
 The project I am currently working on: ft_containers [![khammers's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2774886)](https://github.com/JaeSeoKim/badge42)
-<br/
+<br/>
 
-My last project: Inception [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42) <br/>
+My last project: Inception [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42) 
+<br/>
 
-Current exam rank 05: [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42)<br/>
+Current exam rank 05: [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42)
+<br/>
 
 [![khammers's 42 stats](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/stats?cursusId=42&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
