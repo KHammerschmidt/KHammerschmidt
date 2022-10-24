@@ -4,6 +4,18 @@ I'm an international project management graduate and just recently started codin
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KHammerschmidt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katharina-hammerschmidt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/katharina.hammerschmidt.5)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHammerschmidt)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&email=hide&leet_logo=hide&login=khammers)](https://github.com/mohouyizme/1337-readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHammerschmidt)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+
+The project I am currently working on: ft_containers [![khammers's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2774886)](https://github.com/JaeSeoKim/badge42)<br/
+
+My last project: Inception [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42) <br/>
+
+Current exam rank 05: [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42)<br/>
+
+[![khammers's 42 stats](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/stats?cursusId=42&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
