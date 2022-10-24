@@ -6,6 +6,4 @@ I'm an international project management graduate and just recently started codin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHammerschmidt)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/KHammerschmidt)  
-
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&email=hide&leet_logo=hide&login=khammers)](https://github.com/mohouyizme/1337-readme)
