@@ -20,5 +20,4 @@ My last project: Inception [![khammers's 42 Inception Score](https://badge42.ver
 Current exam rank 05: [![khammers's 42 Inception Score](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/project/2755234)](https://github.com/JaeSeoKim/badge42)
 <br/>
 
-[![khammers's 42 stats](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/stats?cursusId=42&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
+[![khammers's 42 stats](https://badge42.vercel.app/api/v2/cl9mxvq9700780hl4msqc8saj/stats?cursusId=21&coalitionId=159)](https://github.com/JaeSeoKim/badge42)
